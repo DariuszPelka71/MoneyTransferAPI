@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyTransferAPI", "MoneyTransferAPI\MoneyTransferAPI.csproj", "{682C1471-C1F7-4BC6-9800-93BEE2169B40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{682C1471-C1F7-4BC6-9800-93BEE2169B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{682C1471-C1F7-4BC6-9800-93BEE2169B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{682C1471-C1F7-4BC6-9800-93BEE2169B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{682C1471-C1F7-4BC6-9800-93BEE2169B40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C095051B-4231-46A4-900B-9ECCD4EE26B0}
+	EndGlobalSection
+EndGlobal
